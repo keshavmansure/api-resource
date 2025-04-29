@@ -1,0 +1,20 @@
+{
+    "name": "keshavmansure/api-resource",
+    "description": "Lightweight package for structured API replies and dev helpers.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Keshavmansure\\ApiResource\\": "src/"
+        }
+    },
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Keshav Mansure",
+            "email": "keshavmansure01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
